@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Harriot Menu Editing Index & Instructions</title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #333;
+  }
+  h1 {
+    font-size: 1.8em;
+    margin-bottom: 0.5em;
+  }
+  h2 {
+    font-size: 1.2em;
+    margin-top: 1.5em;
+  }
+  ul {
+    padding-left: 1.2em;
+  }
+  li {
+    margin-bottom: 0.5em;
+  }
+  a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .instructions {
+    background: #f8f8f8;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+    margin-bottom: 2em;
+  }
+</style>
+</head>
+<body>
+
+<h1>Menu Editing Index & Instructions</h1>
+
+<div class="instructions">
+  <p><strong>Instructions:</strong></p>
+  <ol>
+    <li>Ensure you are <strong>logged into your Google account</strong> in your browser.</li>
+    <li>Click the link for the menu you want to edit — this will open the sheet in view-only mode if you don’t already have edit access.</li>
+    <li>Click the blue <strong>“View only”</strong> button at the top toolbar of the sheet.</li>
+    <li>In the popup that appears, click the green <strong>“Request edit access”</strong> button.</li>
+    <li>Wait for confirmation that your request has been approved before making any changes.</li>
+    <li>Once you’ve edited the spreadsheet, wait 5–15 seconds and reload the website to see your updates reflected online.</li>
+  </ol>
+</div>
+
+<h2>Menus</h2>
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1d70q6qGZEOBoC1uFwtSYl5TNK-Xk8aGLUT7O-AOhnOY/edit?usp=sharing" target="_blank">Now Pouring Menu</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1xs3SSLAuJmALipR9HbqcpXDjFTlQw1OSWFqFWJpKAoo/edit?usp=sharing" target="_blank">Feature Pours Menu</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1TdYgEgghEf8isaR1XfdQPp3qy4CT1BoWFd1dj3XO8cQ/edit?usp=sharing" target="_blank">A La Carte Menu</a></li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1op3mbg1gCTPK6jRarV_02e1WH7Ct6QYnlqNF--taqCg/edit?usp=sharing" target="_blank">Degustation Menu</a></li>
+</ul>
+
+</body>
+</html>
